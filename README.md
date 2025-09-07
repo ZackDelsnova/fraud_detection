@@ -6,7 +6,12 @@ Build a machine learning model that can classify transactions as “fraud” or 
 
 ## Dataset
 
-public credit card fraud datasets - <https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud>.
+Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
+and place `creditcard.csv` inside the `data/` folder.
+
+## Pretrained Model
+
+After training, the model is saved as `final_logreg_model.pkl` (not included in repo).
 
 ## Libraries used
 

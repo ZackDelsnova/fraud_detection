@@ -1,0 +1,26 @@
+# Python venvs
+venv/
+ENV/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pkl
+*.joblib
+
+# Data
+*.csv
+*.zip
+*.gz
+
+# VS Code
+.vscode/
