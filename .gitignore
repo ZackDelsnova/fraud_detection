@@ -5,11 +5,9 @@ ENV/
 env/
 
 # Models
-models/
 *.pkl
 *.joblib
 
 # Data
-data/
 *.csv
 *.zip
